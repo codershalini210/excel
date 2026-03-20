@@ -1,0 +1,169 @@
+Q1. Data Setup
+
+Tasks:
+
+Connect dataset in Tableau Desktop
+
+Create:
+
+Profit Ratio = Profit / Sales
+
+Convert:
+
+Order Date → Year, Quarter, Month hierarchy
+
+Rename fields properly
+
+Check:
+
+Null values
+
+Data types
+
+👉 Output:
+
+Clean and structured data pane
+
+📊 Section B: Worksheets (40 Marks)
+📈 View 1: Sales Trend (Line Chart)
+6
+
+Tasks:
+
+Columns → Order Date (Month-Year)
+
+Rows → Sales
+
+Add:
+
+Trend Line
+
+Filter → Region
+
+📊 View 2: Category-wise Sales (Bar Chart)
+5
+
+Tasks:
+
+Rows → Category
+
+Columns → Sales
+
+Sort descending
+
+Color → Profit
+
+Show labels
+
+🗺️ View 3: Sales by State (Map)
+5
+
+Tasks:
+
+Drag State → Map
+
+Size → Sales
+
+Color → Profit
+
+Tooltip:
+
+Sales
+
+Profit
+
+Profit Ratio
+
+📉 View 4: Profit vs Sales (Scatter Plot)
+5
+
+Tasks:
+
+Columns → Sales
+
+Rows → Profit
+
+Detail → Customer Name
+
+Size → Sales
+
+📦 View 5: Sub-Category Tree Map
+7
+
+Tasks:
+
+Dimension → Sub-Category
+
+Size → Sales
+
+Color → Profit
+
+📊 Section C: Dashboard (40 Marks)
+🧩 Q3. Create Interactive Dashboard
+6
+🔧 Requirements:
+1. Add All Sheets
+
+Sales Trend
+
+Category Bar Chart
+
+Map
+
+Scatter Plot
+
+Tree Map
+
+2. Global Filters
+
+Add filters for:
+
+Region
+
+Category
+
+Order Date
+
+👉 Apply to all worksheets
+
+3. KPI Cards (Top Section)
+
+Create 3 KPIs:
+
+Total Sales
+
+Total Profit
+
+Avg Profit Ratio
+
+👉 Hint:
+
+Use Text Sheet
+
+Drag measure → Text
+
+4. Interactivity
+
+Enable:
+
+Filter Actions
+
+Clicking Category filters all charts
+
+Highlight actions
+
+5. Design (Important for marks)
+
+Use containers (Horizontal + Vertical)
+
+Add:
+
+Dashboard Title
+
+Proper spacing
+
+Keep:
+
+Consistent colors
+
+Clean layout

@@ -1,0 +1,11 @@
+Transaction_ID,Customer Name,Purchase_Date,Product_Category,Amount,Country
+101,  john doe ,2026-01-15,Electronics,$1200,USA
+102,Alice Smith,1/16/2026,Furniture,450,Canada
+103,BOB MARTIN,2026-01-17,elecTROnics,320,USA
+,Charlie Brown,2026-01-18,Clothing,$85,UK
+105,Alice Smith,1/16/2026,Furniture,450,Canada
+106,  Emma Watson,2026-02-30,Sports,N/A,USA
+107,Frank Castle,2026-01-20,Electronics,610,U.S.A.
+108,Grace Lee,2026-01-21,,150,UK
+109,Henry Cavill,2026-01-22,Clothing,-50,France
+110,Ian Somerhalder,2026-01-23,Electronics,999999,Germany

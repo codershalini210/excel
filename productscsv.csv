@@ -1,0 +1,9 @@
+ProductID,ProductName,Category,Brand,Price
+P101,Laptop,Electronics,HP,55000
+P102,Mouse,Electronics,Logitech,800
+P103,Keyboard,Electronics,Dell,1500
+P104,Monitor,Electronics,Samsung,12000
+P105,Chair,Furniture,Nilkamal,4500
+P106,Desk,Furniture,Godrej,8500
+P107,Notebook,Stationery,Classmate,80
+P108,Pen,Stationery,Cello,20
